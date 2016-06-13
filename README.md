@@ -7,3 +7,4 @@
 
 - 分数显示 Function
 - 模拟时钟 clock
+- 城市距离 mileage
