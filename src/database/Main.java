@@ -1,3 +1,4 @@
+//todo 1.向上转型
 package database;
 
 public class Main {
@@ -6,8 +7,9 @@ public class Main {
             Data cd = new Data();
             Data mp3 = new Mp3("the ture","abc",30,200);
             Data dvd = new Data();
-
+            
             cd = new Mp3("the ture","abc",30,200);
+            
             
             cd.pritnData();
             mp3.pritnData();
